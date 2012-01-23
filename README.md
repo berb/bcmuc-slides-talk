@@ -1,3 +1,3 @@
 #  bcmuc-slides-talk
 
-tbd.
+http://berb.github.com/bcmuc-slides-talk/
